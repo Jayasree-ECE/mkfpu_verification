@@ -1,6 +1,6 @@
 <testsuites name="results">
   <testsuite name="all" package="all">
-    <property name="random_seed" value="1754148356" />
-    <testcase name="mkfpu_mixed_test" classname="test_mkfpu" file="/home/jayasree/shakti_verification/mkfpu_verification/test_mkfpu.py" lineno="19" time="0.036855220794677734" sim_time_ns="310.001" ratio_time="8411.318486654332" />
+    <property name="random_seed" value="1754157406" />
+    <testcase name="mkfpu_mixed_test" classname="test_mkfpu" file="/home/jayasree/mkfpu_verification/test_mkfpu.py" lineno="19" time="0.08442997932434082" sim_time_ns="310.001" ratio_time="3671.6934254966463" />
   </testsuite>
 </testsuites>
